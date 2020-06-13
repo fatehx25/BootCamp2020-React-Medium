@@ -6,7 +6,7 @@ const MediaCard = ({ title, body, imageUrl }) => {
       <div>
         <h2>{title}</h2>
         <p>{body}</p>
-        <img src={imageUrl} class="center"/>
+        <img src={imageUrl} alt="Motivational Quote" class="center"/>
       </div>
     );
   }
