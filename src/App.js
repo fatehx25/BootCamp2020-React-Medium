@@ -1,5 +1,4 @@
 import React from 'react';
-//import logo from './logo.svg';
 import MediaCard from './MediaCard';
 import './App.css';
 import Gate from './Gate';
