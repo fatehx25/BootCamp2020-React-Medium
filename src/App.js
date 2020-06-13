@@ -45,8 +45,5 @@ function App(props) {                  //Instead of props, I could write the obj
 //    <div>Hello {name}!</div>;
 //  )
 
-//Making a new function using JS new syntax;
-//Putting a custom tag within the new function;
-
 
 export default App;
